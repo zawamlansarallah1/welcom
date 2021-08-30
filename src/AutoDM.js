@@ -41,7 +41,8 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  return `Hi ${name} Thanks for .... \n Happy ${dayName} 😊😊 `; // your message
+  return `مرحبا  ${name} 
+انا اسمي عدي  الغولي . من اليمن . مشرف قنوات زوامل أنصار الله وعيسى الليث على التلقرام واليوتيوب.. .\n يشرفني متابعتك لحسابي  والانضمام لعالمي الخاص واتمنى منك التفاعل مع حسابي وتفعيل الاشعارات وجزاكم الله خير 😊  \n  #عدي_الغولي  😊😊 `; // your message
   // My message   return `Hi ${name} Thanks for being a part of my social media network. I'am the @PicsrushE founder,A new Online Image Editor completely with web technologies,I'm also a reactjs developer and medium blogger.\n Happy to discuss anytime 😊  \n Happy ${dayName} 😊😊 `;
 };
 
